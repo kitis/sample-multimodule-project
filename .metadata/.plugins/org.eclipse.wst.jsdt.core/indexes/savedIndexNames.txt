@@ -1,6 +1,0 @@
-INDEX VERSION 1.122+C:\PACKT\sample-multimodule-project\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
-472212346.index
-4262155072.index
-791101004.index
-3850274096.index
-2310081368.index

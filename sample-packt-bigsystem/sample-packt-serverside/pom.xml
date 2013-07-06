@@ -22,4 +22,14 @@
       <url>scm:git:https://github.com/kitis/sample-multimodule-project.git</url>
       <developerConnection>scm:git:https://github.com/kitis/sample-multimodule-project.git</developerConnection>
   </scm>
+  <build>
+      <plugins>
+          <plugin>
+              <groupId>org.apache.maven.plugin</groupId>
+              <artifactId>maven-release-plugin</artifactId>
+              <version>2.4.1</version>
+          </plugin>
+      </plugins>
+      
+  </build>
 </project>

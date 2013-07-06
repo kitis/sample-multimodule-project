@@ -18,8 +18,8 @@
     <module>sample-ear-module</module>
   </modules>
   <scm>
-      <connection>scm:git:git@github.com:kitis/sample-multimodule-project.git</connection>
-      <url>scm:git:git@github.com:kitis/sample-multimodule-project.git</url>
-      <developerConnection>scm:git:git@github.com:kitis/sample-multimodule-project.git</developerConnection>
+      <connection>scm:git:https://github.com/kitis/sample-multimodule-project.git</connection>
+      <url>scm:git:https://github.com/kitis/sample-multimodule-project.git</url>
+      <developerConnection>scm:git:https://github.com/kitis/sample-multimodule-project.git</developerConnection>
   </scm>
 </project>

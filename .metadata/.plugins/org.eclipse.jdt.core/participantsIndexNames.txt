@@ -1,0 +1,5 @@
+INDEX VERSION 1.126
+C:\PACKT\sample-multimodule-project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2671165811.index
+\sample-webapp-module\src\main\resources
+C:\PACKT\sample-multimodule-project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1980187398.index
+\sample-ws-module\src\main\resources

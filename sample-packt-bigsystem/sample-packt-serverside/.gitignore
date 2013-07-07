@@ -1,9 +1,10 @@
 *.class
 *.resources
 *.log
-.metadeta/
+**/.metadeta/**
 *.container
-.releaseBackup
+*.releaseBackup
+*.dat
 #Package Files #
 *.jar
 *.war

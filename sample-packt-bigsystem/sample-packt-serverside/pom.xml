@@ -4,7 +4,7 @@
   <parent>
     <groupId>com.packt.maven</groupId>
     <artifactId>sample-packt-parent</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.1</version>
     <relativePath>../sample-packt-parent/pom.xml</relativePath>
   </parent>
   <artifactId>sample-packt-serverside</artifactId>
@@ -22,6 +22,7 @@
       <connection>scm:git:https://github.com/kitis/sample-multimodule-project.git</connection>
       <url>scm:git:https://github.com/kitis/sample-multimodule-project.git</url>
       <developerConnection>scm:git:https://github.com/kitis/sample-multimodule-project.git</developerConnection>
+    <tag>sample-packt-serverside-0.0.1</tag>
   </scm>
   <build>
       <plugins>

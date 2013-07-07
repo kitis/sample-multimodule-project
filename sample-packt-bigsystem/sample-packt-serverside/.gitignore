@@ -1,7 +1,7 @@
 *.class
 *.resources
 *.log
-
+.metadeta/
 #Package Files #
 *.jar
 *.war

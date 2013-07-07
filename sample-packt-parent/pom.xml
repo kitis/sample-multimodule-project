@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.packt.maven</groupId>
   <artifactId>sample-packt-parent</artifactId>
-  <version>0.0.1</version>
+  <version>0.0.1-SNAPSHOT</version>
   <packaging>pom</packaging>
   <scm>
       <connection>scm:git:https://github.com/kitis/sample-multimodule-project.git</connection>

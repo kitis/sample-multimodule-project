@@ -4,11 +4,9 @@
   <parent>
     <groupId>com.packt.maven</groupId>
     <artifactId>sample-packt-serverside</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.1-SNAPSHOT</version>
   </parent>
-  <groupId>com.packt.maven</groupId>
   <artifactId>sample-businesslogic-module</artifactId>
-  <version>0.0.1</version>
   <name>sample-businesslogic-module</name>
   <url>http://maven.apache.org</url>
   <properties>

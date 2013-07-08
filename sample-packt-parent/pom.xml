@@ -5,8 +5,8 @@
   <version>0.0.1</version>
   <packaging>pom</packaging>
   <scm>
-      <connection>scm:git:https://github.com/kitis/sample-multimodule-project.git</connection>
-      <url>scm:git:https://github.com/kitis/sample-multimodule-project.git</url>
-      <developerConnection>scm:git:https://github.com/kitis/sample-multimodule-project.git</developerConnection>
+      <connection>scm:git:git@github.com:kitis/sample-multimodule-project.git</connection>
+      <url>scm:git:git@github.com:kitis/sample-multimodule-project.git</url>
+      <developerConnection>scm:git:git@github.com:kitis/sample-multimodule-project.git</developerConnection>
   </scm>
 </project>
